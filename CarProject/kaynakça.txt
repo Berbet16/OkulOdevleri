@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/22444450/drawing-circle-with-opengl
+https://stackoverflow.com/questions/29665068/how-can-i-define-starting-position-of-glutwirecube
+https://stackoverflow.com/questions/5521671/is-gltranslation-function-gives-position-of-object-in-opengl
