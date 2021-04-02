@@ -1,5 +1,3 @@
-#181805028_BETÜL_BAŞAN
-#171805019_BETÜL_BERNA_SOYLU
 
 def func(x):
     return x**2
