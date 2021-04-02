@@ -1,5 +1,3 @@
-
-
 # Function to find the product term  
 def proterm(i, value, x):  
     pro = 1;  
