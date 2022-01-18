@@ -1,0 +1,208 @@
+                                                       ABSTRACT
+Hikaye anlatımı, bilgi, eğlence vb. Paylaşmak için en eski insan etkinliklerinden biridir ve mitlerin tüm kültürlerde her yaşta en yaygın hikaye anlatımı olduğunu söylemek yanlış değildir.
+Adolf Bastian ile başlayan ve Carl Gustav Jung ve Joseph Campbell tarafından takip edilen araştırmacılar sayesinde, şimdi söyledikleri kültürel çevreye bakılmaksızın mitlerde ortak bir yapı olduğunu biliyoruz.
+Jung'un monomitleri arasında belki de en ilginç olanı kahraman ve Campbell'in “Bin Yüzlü Kahraman” da gösterdiği gibi yolculuğu. En önemlisi, kahramanın yolculuğu sadece mekânsal bir yolculuk değil, aynı zamanda zamansal bir yolculuktur. 
+Bu çalışmanın amacı, Star Wars, IV. Bölüm-VI. Film serisindeki kahramanın zamansal yolculuğunun bir fraktal kafes yapıda organize edilebildiğini göstermektir.
+Burada sunulan kafes tabanlı çerçeve, bilgisayar oyunları, interaktif kitaplar, e-öğrenme, vb.Gibi çeşitli alanlarda kullanılmak üzere otomatik bir hikaye anlatma motorunun resmi bir temeli olarak hizmet edebilir.
+
+                                                       INTRODUCTION
+
+İletişim, insan yaşamında her zaman çok önemli ve önemli bir unsur olmuştur. 
+Elbette, iletişimin birincil aracı olan doğal dildir. Önce sözlü, sonra sözlü ve yazılı olarak dil, bireyleri ve kültürleri, bireyler ve kültürler arasındaki ilişkileri şekillendirdi. 
+Dahası, dil, kültür yaratmanın birincil aracı olarak bile düşünülebilir. Dil kullanımının en eski biçimlerinden biri hikaye anlatımıdır. 
+Hikaye anlatımı çeşitli tarzlarda ortaya çıktı. Bu tarzların en yaygın olanının efsaneler olduğunu söylemek yanlış değildir. 
+Kültürlerin çeşitliliğini ve zenginliğini gören ana soru, bu mitlerin altında yatan bazı ortak yapıların olup olmadığıdır. 
+Bu soru 19. yüzyılın sonunda, özellikle Alman bilim adamı Adolf Bastian'ın çalışmalarında ortaya çıktı. 
+Dünyanın dört bir yanından gelen mitlerin aynı "temel fikirlerden" yapılmış gibi göründüğünü ilk öneren oydu. (Bastian, 1880). 
+20. yüzyılın başlarında psikanalitik okulunun kurucusu Sigmund Freud, bir bireyde ortak bir düşünce ve davranış yapısının olduğunu kanıtladı. 
+Kaba konuşma ile Freud, bireye bilinç ve bilinçsizlik konglomeratı olarak davrandı (Freud, 1899; Freud, 1923)
+Tüm bu
+ve 20. yüzyılın başlangıcındaki diğer çalışmalar, insanların düşünce ve davranışlarında ortak yapılar olduğunu varsaydı ve gösterdi. 
+Bu ortak yapılar düşüncesinin ve bilinçsizlik fikrinin sadece bireyler için değil, “kolektif bilinçsizlik” olarak insan türleri için geçerli olduğunu göstermek, Carl Gustav Jung’un erdemiydi (Jung, 1902). 
+Freud'un aksine Jung, kolektif bilinçsizlik için ortak yapılar olduğunu ve kollektif bilinç kaybının mitler şeklinde ortaya çıktığını gösterdi. 
+Ortak yapılara “arketipler” veya “monomitler” denir (Jung, 2014). 
+Arketiplerin insan ruhunun temelini oluşturduğunu ancak onunla sınırlı olmadığını iddia etti ve gösterdi. 
+İşte arketiplerin kapsamlı olmayan bir listesi: Anne, Çocuk, Gölge, Persona, Anima ve Animus, Baba, Kahraman, Bakire, Bilge Yaşlı Adam, Hayvan, Dolandırıcı, Hermafrodit ve Tabii ki Öz. 
+Bu yapılar tüm kültürler için ortak olduğundan, bu yapıların resmileştirmeye çok iyi katkıda bulunduğuna inanıyoruz. 
+Bu tür bir resmileştirme, bilgisayar teknolojilerinin yardımıyla hikaye anlatımının tüm alanları için otomatik yöntemler oluşturmaya yardımcı olabilir. 
+Elbette, tüm arketiplerin çok kolay resmileştirilebileceğini iddia etmek cesur bir girişimdir. 
+Bu nedenle, bu yazıda sadece bilgisayar oyunları, romanlar veya filmler gibi modern kültürel ürünlerde değil, aynı zamanda dini hikayeler ve / veya mitler vb. Gibi eski kültürel ürünlerde de en çok kullanılan arketiplerden biri olan Kahraman'a odaklanacağız. 
+Bu makalenin geri kalanı aşağıdaki gibi düzenlenmiştir. 
+Bölüm II, kahramanın yolculuğuna bir giriş, Yıldız Savaşları dizisinin filmleri, yani Bölüm IV-VI'nın dahil olduğu çalışmanın arka planını, kahramanın yolculuğunun çok iyi uygulamalarının örnekleri ve semantik rollerin kafesini ele alıyor. 
+Bölüm III, yolculuğun zamansal zemini açıklayarak ve benzer ancak benzer şekilde yapılandırılmış figüral durumlar göstererek kahramanın yolculuğunu bir kafes yapısı olarak tarif edecektir. 
+Makale bir sonuç ve gelecekteki çalışmalar için bazı önerilerle sona eriyor.
+                                                      BACKGROUND
+	a-)Hero’s journey(kahramanlığın yolculuğu)												  
+Bütün arketipler efsanelerde bulunmasına rağmen, belki de en ilginç ve kullanılan arketip kahramandır. 
+Bir arketip olarak kahraman, filmler, bilgisayar oyunları vb.Gibi modern kültürel ürünlerde yaygın olarak kullanılmaktadır. 
+Kahraman genellikle naiftir, aptal demek değildir. 
+Bununla birlikte, arketip Kahramanı arketip Benliğe yakından bağlı olduğundan, insanlar kendilerini kahramanla kolayca tanıyabilir
+
+Arketip Kahramanı en iyi 1949'da yayınlanan “Bin Yüzlü Kahraman” Joseph Campbell'ın çığır açan çalışmasında incelenmiştir (Campbell, 1949). 
+Jung’un arketip fikirlerinden güçlü bir şekilde etkilenen Campbell, efsaneler ve hayaller arasındaki ilişkiyi ve analojileri göstererek başlar. 
+Pek çok farklı kültür ve din arasında yapılan kapsamlı karşılaştırmalı çalışmalarla Campbell, kahramanın kimseden kurtarıcıya kadar, kendi zayıflıklarıyla ilgili endişelerini ve mücadelelerini içeren bir süre boyunca sürekli bir geçişte olduğunu gösterir. 
+Kahramanın Yolculuğu'ndaki ilerlemelerdeki her adımın ayrıntılarına girerken bizi bu çalışmanın kapsamı dışına çıkaracağımızdan, yolculuğun adımlarına kısa bir genel bakış vererek kendimizi memnun edeceğiz. 
+Yolculuk, aşağıdaki gibi iç içe geçen üç eyleme ve on yedi (17) adıma ayrılmıştır.
+                                                       ACT1:DEPARTURE(HAREKET)
+Kalkış Çağrısı: Kahraman, çoğunlukla bir elçi veya olay tarafından davet edilir veya maceraya / göreve çağrılır. 
+2. Çağrıyı Reddetmek: İlk başta kahraman macera ya da macera çağrısını reddeder. Acı çekmeli veya acı içinde olmalı. 
+Bu yüzden sonunda görevi kabul eder. 
+3. Doğaüstü Yardım: Misyonu / macerayı / görevi kabul ettikten sonra Kahraman akıl hocası veya bilge adamla / kadınla buluşur. 
+Bilge kişi ona öğretir, ona bir tılsım, bir sihir veya silah verir ve Kahramanı görevi başarıyla tamamlayabilmesi için tüm nitelikleri / özellikleri alır. 
+4. Eşiği Aşmak: Kahraman ilk eşiği geçer ve bilinen dünyayı onun arkasında bırakır ve maceranın / görevin bilinmeyen dünyasına girer. 
+Bu noktadan sonra geri dönüş yok.
+5. Balina Göbeği: Yeni dünyaya giriş yeni bir doğum gibi olabilir. 
+Kahraman, ölüm veya ölüm benzeri bir durum gibi ciddi bir geçiş yaşar. Bu deneyimden sonra görev / maceraya hazırdır.
+
+                                                      Act II: Initiation(BAŞLATMA)
+
+6. Yargılama Yolu: Mentorun yardımıyla veya yeni yeteneklerini / özelliklerini kullanarak kahraman, yeni dünyadaki küçük görevlerin üstesinden gelir ve yeteneklerini genişletir. 
+7. Tanrıça ile Buluşma: Kahraman bir erkekse, genellikle bir tanrıça veya bir kraliçe veya prenses gibi asil bir kadınla tanışır ve onunla birleşir. 
+Bu Freud'un kişisel bilinçsizliğinin Oedipus kısmıdır. 
+Kahramanın bir kadın olması durumunda, aynı süreç onun için de geçerlidir, ancak farklılığı, erkek bir partner olan Tanrı ile birleşir. Cinsiyetlerin simbiyozu mükemmelliği temsil eder. 
+8. Baştan Çıkaran Kadın: Kahraman yolculuğu boyunca her zaman 'cinsel' isteklerle test edilir. 
+Sadece dünya annesiyle olan cinsel birliktelikle bu arzuları yenebilir ve muzaffer olabilir. 
+9. Baba ile Kefaret: Oedipus kompleksinin bir diğer önemli parçası olan babaya duyulan nefret, bu aşamada affedici (bazen çirkin olsa da) babayı kabul ederek ve aynı zamanda yaratıcı baba tarafından affedilerek aşılabilir. 
+Bu, Kahramanın rolünü anlamasına ve kendisi hakkında daha derin bilgi edinmesine yardımcı olur. 
+10. Apotheosis: Kahramanın algısı ve bilinci en üst düzeye ulaşır. Ona yeni yetenekler ve özellikler sunuluyor ve gerçeği farklı bir şekilde görmeye başlıyor. 
+Kahraman bir tür tanrı olur. 
+11. Ultimate Boon: Artık kahraman, eski dünyasının da bundan yararlanacağı şekilde amacına ulaşmaya hazır.
+												       Act III: Return(DÖNÜŞ)
+
+12. Geri Dönüşü Reddetme: Kahraman, yeni dünyasını ya da yeni kimliğini daha çok hazımsızlaştırdığı ya da sevdiği için eski dünyasına geri dönmeyi reddeder. 
+13. Sihirli Uçuş: İlerlemeler veya getiri bir dirençle karşılaştığında, birdenbire sihirli engeller / engeller ortaya çıkar. 
+14. Olmadan Kurtarma: Kahraman ilerlemelerini / kazanımlarını sorgulamaya başlar veya egosunu kaybeder. 
+Benzer nedenlerle, inanılmayacak hale gelir. Bu noktada önceki dünyasından yardıma ihtiyacı var. 
+15. Dönüş Eşiğinin Geçişi: Kahraman, “sıradan” dünyanın gerçekliği olduğunu ve üstün güçlerini geri bırakmak zorunda olduğunu kabul eder. 
+16. İki Dünya Ustası: Kahraman, insan-cinsel ve ilahi-fantastik dünyaların yeteneklerine ve özelliklerine sahiptir.													   
+17. Yaşam Özgürlüğü: Kahraman başarılarını ve merhametini tüm dünyaya yayar ve bu şekilde onları tüm dünyayla paylaşır. 
+Modern hikaye anlatımı için Christopher Vogler, Campbell’in Kahramanı Yolculuğu'nun genel yapısında bazı değişiklikler yaptı ve Tablo I'de görülebileceği gibi yine üç eyleme (Vogler, 2007) bölünmüş 12 adımlı bir sistem önerdi.													  
+     (TABLO1)
+
+Kahramanın Yolculuğu'nun en başarılı uygulamalarından ve uygulamalarından biri, Star Lucas'ın George Lucas tarafından yarattığı, ürettiği ve yönettiği film dizisidir. 
+Dizi iki üçleme olarak üretildi ve her iki üçlemede de Hero's Journey'e iki farklı sonla anlatılıyor. 
+Filmler iyi bilindiği için, burada onlara dokunmak yeterlidir. Bu çalışma 1977, 1980 ve 1983 yıllarından IV-VI. Bölümlerle ilgilidir. 
+Bu filmlerde kahraman Luke Skywalker'dır. Yolculuğundaki ana olaylar Tablo II'deki gibi Campbell’in yapısına haritalanabilir
+      (TABLO2)
+
+   b. The lattice of semantic roles(Anlamsal rollerin kafesi)
+Kılıçaslan ve Tuna (2015) mekansal semantik alanı üç alana ayırmayı önermektedir: konumsal alan, şekilsel alan ve psikolojik alan. 
+Bu üç bölümü Gestalt psikoloji okulunun iyi bilinen bir prensibine dayandırıyorlar: bir insan algılayıcısı, bir sahneyi otomatik olarak bir figür ve zemine ayırıyor, birincisi ikincisine karşı duruyor. 
+Konumsal ve şekilsel alanlar sırasıyla yerden ve şekilden gelir; ve algısal alan, algılayıcının zihnine karşılık gelir. 
+Konumsal alan, hareket halinde olan veya bir yerde bulunan varlıkların alanıdır. Bu nedenle, şu tematik rolleri içerir: Konum, Kaynak, Hedef ve Yol. 
+Kaynak, Hedef ve Yol'un, hareket eden varlıkların başında, sonunda ve hareketleri boyunca konumlandıkları yerlere atıfta bulundukları için Konum olarak alınması gerektiği ileri sürülmektedir. 
+Ayrıca, Yollar hem Kaynak hem de Hedef olarak kabul edilir: yol, bir hareketin başlangıcındaki bir hedeftir ve sonunda bir kaynaktır. 
+Şekil 1, konumsal roller arasındaki tarif edilen -a ilişkilerinin bir kafes temsilidir:
+      (ŞEKİL-1)
+	  
+Figür alanı şu rolleri içerir: Tema, Aktör, Hasta ve Enstrüman. Her bir şekilsel rol, bir yerde bulunan bir varlığı işaret eder. 
+Figürsel rollerin bu ortak özelliği (yani, bir yerde bulunur), her biri Figural olarak belirtilerek ele geçirilir. Bir Tema sadece Figürdür. 
+Aktör, eylemin kaynağı olduğu için Figural_source'dur. Bir Hasta eylemin amacı olduğu için Figural_goal'dır. 
+Enstrüman, eylemin Figural_source'dan Figural_goal'a aktığı bir Figural_path. Bu nedenle, şekilsel roller arasındaki is-a ilişkileri Şekil 2'deki gibi açıklanabilir.
+       (ŞEKİL-2)
+Kılıçaslan ve Tuna, psikolojik alana benzer bir tedavi uygulanabileceğini öne sürüyor. 
+Bir algılayıcının zihni, “John dünyanın düz olduğunu bilir” cümlesinde tarif edildiği gibi zihinsel bir durumda olduğu gibi, bilgi için bir yerdir. 
+Bilgi, 'soyut bir geçişin' bir 'teması' olduğunda, Gruber’da (Gruber, 1993) olduğu gibi aşağıdaki örnekte: “John, dünyanın Bill'den düz olduğunu öğrendi.” Bu örneği “Dünyanın düz olduğu bilgisini bir kaynaktan (Bill’in zihninden) bir hedefe (John’un zihni)” taşıdıklarını ifade ederek, Psikolojik_kaynak ve Psikolojik_goal rollerini tematik rollerin envanterine eklemeyi öneriyorlar. 
+Ayrıca bir Psikolojik_yol kavramına ihtiyaç olduğunu savunurlar, çünkü duyu organları bilginin kişinin (bir durumdan) aklına aktığı 'yollar' olarak düşünülebilir. Şekil 3'teki diyagram, psikolojik alanın örgü organizasyonunu temsil eder.
+Bu yazıda Kılıçaslan & Tuna’nın mekansal semantik alanın üçlü tedavisinin zamansal semantik alana uygulanabileceğini öneriyoruz. 
+Her üç alanı da kesen ortak bir yapının olduğuna dikkat edin: her şey bir konumdur ve yollar hem kaynaklar hem de hedeflerdir. 
+Benzer şekilde, zaman durumlar için bir yer olarak düşünülebilir. Belirli bir yılda bir olayın meydana geldiğini söylediğimizde, o yılı o olayın geçici yeri olarak kabul ederiz. “John sabah 9'dan beri uyuyor” dediğimizde zamana geçici bir kaynak olarak bakıyoruz; ya da “John öğlene kadar uyanık kalacaktır” dediğimizde, zamanın bir noktasını zamansal bir hedef olarak görürüz. 
+Ayrıca, “Xmas yaklaşıyor” dediğimizde, zaman çizelgesini bir olayın hareket ettiği bir yol olarak alıyoruz. 
+Dahası, nesneler konumlar için referans olarak hizmet edebildikçe, durumlar geçici referanslar olabilir, örneğin, “John uyandığından beri uyuyor” içindeki geçici kaynak veya “John karısı eve gelene kadar geçici olarak uyanık kalacaktır. .”
+Zamansal semantik alanda, durumların, nesneleri figürsel rol oynayan varlıklar olarak değiştirdiğini savunuyoruz. 
+Bilişsel ajanlar durumlara uydurulduğunda, onları gerçekliğin figüran parçaları, yani odaklanılan realitenin parçaları olarak ayırırlar. 
+Bazen, odaklanılan şey, örneğin eski “tetikleyen”, bir durumdan diğerine geçiş olur. 
+Bu tetikleyici ilişki bazen fiziksel bir neden-etki ilişkisi ve bazen de entailment veya varsayımın mantıksal bir ilişkisidir. 
+Bu tür geçişlerde, ilk durum, ikinci durum olan figürlü bir hedefe götüren şekilsel kaynak görevi görür. 
+Bu tür geçişlere bazen başka durumlar da aracılık eder. Bu ikinci durum türü, kaynak durumlardan hedef durumlara kadar şekilsel yollar olarak ele alacağız. 
+Bu yerelci durum muamelesi, Aristoteles'e kadar uzanan bir durum sınıflandırmasını yorumlamak için alternatif bir yol açar. 
+Bu sınıflamaları modern edebiyatta popüler yapan şey, Vendler’in (1957) fiillerin dört yönlü sınıflandırmasıydı: devletler, faaliyetler, başarılar ve başarılar. 
+Devletler zaman içinde statik süreler içerir (örneğin, "aşk", "nefret"). 
+Etkinlikler ve başarılar dinamiktir ve zamanla genişletilir (örneğin, "koş", "yürüyüş"). 
+Başarılar, bir durumdan diğerine anlık değişikliklerdir (yani, "öl", "bul"). 
+Telisellik, Satıcı'nın sınıflandırmasını kesen bir boyuttur. 
+Devletler ve faaliyetler ateliktir, yani herhangi bir hedefe yönelik değillerdir, başarılar ve başarılar teliktir, bu da geçici olarak bağlı oldukları anlamına gelir. 
+Bu ayrımlara yerel bir rewording verelim. Bir devlet, herhangi bir biçimsel kaynak ya da hedef durum (örn., 'Uyuyordu') gerektirmeden tamamen biçimsel bir durum olarak izole edilebilir. 
+Bir faaliyet ya tamamen şekilsel bir durum (örneğin, 'Her gün yürüdü') ya da şekilsel bir yol (örneğin, 'Oraya koşmaya gitti') olabilir. 
+Bir başarı, sona erme noktası biçimsel bir amaç olan şekilsel bir durum olabilir (örneğin, 'Bir resim çizdi'). 
+Bir başarı, şekilsel bir durum (ör., "Kalemi buldu"), şekilsel bir kaynak (ör. "Yürümeye başladı") veya şekilsel bir hedef (ör. "Yürümeyi durdurdu") olabilir.
+                                                  III. Hero’s Journey as a Lattice Structure(Kahramanın Kafes Yapısı Olarak Yolculuğu)
+
+Kahramanın yolculuğu durumunda, kafes tabanlı modelin mekansal boyuta uygulanması nispeten kolaydır. 
+Luke Skywalker'ın Yıldız Savaşları IV-VI. Bölümlerindeki yolculuğuna örnek olarak baktığımızda, Luke'un yolundaki Tatooine gezegeninden başlayarak Alderaan, Yavin, D'vouran, Minba, Hoth, Dagobah gezegenlerinin üzerinden geçtiğini görebiliriz. 
+Bespin ve Endor'da bitiyor, mekânsal sahneyi çok iyi tasvir ediyor. 
+Bu yaklaşımla, Tablo II yerleri belirtmek için üçüncü bir sütunla genişletilebilir.
+Daha önce de belirttiğimiz gibi, mekansal bir konum, bir figürün algılandığı zemin olarak hizmet eder.
+Aynı şekilde,geçici bir konum, yolculuğun odaklanılan durum olarak tasarlanacağı zemin olarak hizmet edecektir. 
+Aslında, mekânsal alanda yapılandırılan her şeye zamansal alanda paralel bir tedavi verilecektir. 
+Bu bakış açısından, bir önceki bölümde tasvir edilen kafes yapıları, uzamsal alana veya zamansal alana uygulanabilecek şablonlar olarak düşünülmelidir. 
+Luke’un yolculuğu durumunda, kaynağın Luke’un macera çağrısını reddetmesi olduğunu görüyoruz (bkz. Tablo II). 
+Senaryoların mantığı bizi bu kaynak durumdan, Luke'un başlangıçta reddettiği şeyleri kabul ettiği bir hedef duruma götürür. 
+Mantık basitçe, bir kabul devletinin kabul edilen şeyi daha erken reddetmeyi gerektirdiği gerçeğine dayanır. 
+Yolculuk boyunca, Kahraman hem fiziksel hem de psikolojik olarak acı çekmeye ve görevi yerine getirme kapasitesinden şüphe etmeye devam ediyor. 
+Kahramanın ıstırap sürecinin kaynaktan hedefe, yani retten kabulüne giden yol olduğunu söylemek yanlış olmaz. 
+Luke’un yolculuğunun genel yapısı bu nedenle, Şekil 4'te gösterildiği gibidir.
+      (ŞEKİL-4)
+
+Yolculuğun fraktal bir yapıya sahip olduğu da belirtilmelidir. Yolculuk, tüm ölçeklerde kendine benzer olduğu için fraktal bir yapının ana özelliğini gösterir. 
+Tablo I'de belirtilen her bir durumun iç yapısına girersek, her birinin şekil 4'te tasvir edilene benzer bir yapıya sahip olduğunu fark edebiliriz: Luke'un atmaya zorlandığı her adım onu ​​daha önce bazı sıkıntılara ve acılara getirir kaderini kabul eder ve sorunları çözmeye çalışır. 
+Elbette, kahramanın yolculuğunda öz-benzerlik tam bir öz-benzerlik değildir. Oldukça yarı benzerliktir. 
+Aksi takdirde, hikaye donuk ve ilgisiz olurdu. Ayrıca hikayenin sonsuz olmadığı kolayca görülebilir. 
+Bu nedenle, kahramanın yolculuğunu modelleyen kafesin sonlu ve yarı benzer bir fraktal olarak nitelendirilmesi gerektiği sonucuna varmalıyız. 
+Daha önce belirtildiği gibi, her adım belirli bir durumla başlar ve Luke'un başka bir duruma aktarılmasıyla sona erer. Bu açıdan, Luke’un yolculuğu Şekil 5'te gösterildiği gibi tasvir edilebilir.
+       (ŞEKİL-5)
+Hem Yıldız Savaşları romanları hem de IV-VI bölümlerinin filmleri göz önüne alındığında, genel hikayenin birçok küçük görevden oluştuğu görülebilir. 
+Büyük resimde birçok ilginç pasaj ve hikaye olmasına rağmen, Luke’un Bespin'e yakalanmasının ardından Bölüm V'de Luke Skywalker ve Darth Vader arasındaki ilginç kılıç düelloyu örnek olarak inceleyeceğiz. 
+Ayrıntıya girmeden Luke, arkadaşlarından bir vizyon olarak yardım çağrısı aldığında Dagobah'daki eğitiminde. 
+Eğitimini kırmaması gerektiğini çok iyi bilmesine rağmen, çağrıyı takip eder ve Bespin'e uçar. 
+Burada Darth Vader tuzağına bakar ve onunla düello yapar. Düello hem fiziksel hem de zihinsel acılarla sona erer. 
+Elini kaybeder ve Darth Vader'in babasının katili değil, gerçek babası olduğunu öğrenir. Kafes tabanlı perspektiften Bespink'teki olaylar Şekil 6'daki gibi resmileştirilebilir.
+       (ŞEKİL-6)
+Şekil 6 yine büyük resme, yani kahramanın yolculuğuna atıfta bulunuyor, ancak bu kez kahramanın Bespin'deki alt macerasıyla. 
+Her devletin, kendi şüphelerini ve kahramanın reddini içerdiği açıktır. Her devletin yeni acılara neden olan ve kahramanı yeni bir duruma transfer eden doruk noktasına ulaşan bir tetikleyici olayla bittiği de açıktır. 
+Bespin'deki düelloda, Luke'un yeni devleti, savaştığı ve usta kötülük olan adamın babası olduğu gerçeğinin kabulüdür.
+Ana sorun, yukarıda belirtilen sonlu, yarı benzer kendi fraktal yapısının keşfedilebilmesidir.
+tüm yolculuk boyunca. 
+Reddetme-çekilme kabul paterni yolculuk tamamlanana kadar tekrar tekrar görünecektir. Dolayısıyla öykü, kısmen Şekil 7'de anlatılan yapıya sahiptir.
+       (ŞEKİL-7)
+
+                                                 IV. Conclusion and Future Work (SONUÇ VE GELECEK İŞ)
+
+İnsanlık tarihindeki büyük başarılardan biri dilin gelişmesiydi. Dil, fikirleri ifade etmek, öğretmek, eğlendirmek vb. İçin ana araçlardan biri olmuştur ve hala bu dili kullanmaktadır. 
+Başlangıçta, dil çoğunlukla ikonlara ve gliflere dayanan daha resimli bir forma sahipti. Zamanla, diller alfabe gibi soyut semboller kümesi oluşturdu (Janson, 2002). 
+Düşünceleri, fikirleri vb. İfade etmek için kullanılan araç dilleri ne olursa olsun, insanların hikaye anlatmaktan hoşlandığı her zaman yaygındır. 
+Birinin yüzyıllar ve kültürler boyunca anlatılarda ortak bir yapı olup olmadığını sorduğu sadece bir zaman meselesiydi. 
+Bu soruyu soran A. Bastian'dı ve cevap Freud, Jung, Campbell ve diğerlerinin çalışmaları tarafından verilen “evet” idi. 
+İnsan, özellikle arketipler olarak adlandırılan mitler ve hikayeler durumunda bazı yapıları paylaşır. 
+En ilginç arketiplerden biri, statik bir yapı olarak kahraman ve dinamik bir yapı olarak yolculuğudur.
+
+Bu yazıda, tüm kültürlerde ve romanlar, hikayeler, filmler ve bilgisayar oyunları vb. Gibi tüm kültürel ürünlerde yaygın olarak kullanıldığı için yukarıda belirtilen yolculuğun bir şekilde resmileştirilip şekillendirilemeyeceği sorusunu sorduk. 
+örgü yapıları ile resmi bir yol verilir. Tüm yolculuk bir kafes gibi net bir şekilde aktarılabilir. Örnek olarak, kahramanın yolculuğunun, yani Star Wars Bölüm IV-VI'nın çok iyi bir uygulamasını inceledik. Bu incelemenin ağırlığı filmler üzerinde olmasına rağmen, romanlar da incelenmiştir. 
+Luke’un Yıldız Savaşları Yolculuğunun sonlu, yarı benzer bir fraktal kafes olduğunu gösterdik. Her ne kadar bu çalışmanın kapsamı dışında olsa da, bu yapının Yıldız Savaşlarına özgü olmadığı, Matrix, Doktor Zhivago, Savaş ve Barış, Yüzüklerin Efendisi gibi tüm kahramanlık destanları için de geçerli olduğu belirtilmelidir.
+Monty Python ve Holy Grail gibi komedi filmleri bu yapıyı kullanıyor. Tabii ki, filmler bu yapıyı kullanan tek kültürel ürün değildir. 
+Campbell tarafından gösterildiği gibi, mitler bu yapının en eski ve başarılı versiyonlarıdır. 
+Bu yapıyı kullanan çok daha yeni ürünler bilgisayar oyunlarını içerir.
+Filmlerin ve bilgisayar oyunlarının en büyük dezavantajlarından biri, senaryoların profesyoneller tarafından yazılması gerektiğidir, bu da çok zaman alıcıdır. 
+Bilgisayar oyunlarının hikaye motorları, hikayeye göre uygulanmalıdır. 
+Hikaye iyi anlatılmazsa ve programlama ekibi farkında değilse, oyun birçok bağlam sorununun ortaya çıktığı garip bir program haline gelir. 
+Hikaye resmi bir şekilde ifade edilebilirse, onun özünü uygulamak ve yakalamak çok kolay olurdu. 
+Önerilen sonlu, yarı kendine benzer fraktal yapının anlaşılması ve uygulanması kuvvetli matematiksel altyapısına göre çok kolaydır. 
+Hikaye anlatımı motoruna bir hikaye verildiğinde, doğal bir dil işleme birimi yolculuğun adımlarını türetebilir ve onu motorun fraktal oluşturma birimine aktarabilir. 
+Bu yazıda, yolculuğun zamansal yönüne odaklandık. Daha önce de belirttiğimiz gibi, mekansal yön de aynı şekilde kolayca ele alınabilir. 
+Bu yaklaşım hikaye anlatma motoruna uygulanabilir. Bu yazıda, yeni bir tür hikaye anlatma motoru için bir çerçeve sunduk. 
+Bu yaklaşımın gerçekleştirilmesinin öncelikle doğal dil işlemeyi gerektirdiği açıktır. Doğal dil işleme ünitesinin uygulanmasına yönelik çalışmalar devam etmektedir. 
+Bu arada, yazarlar ayrıca tüm hikaye anlatımı motorunun uygulanması üzerinde çalışıyorlar. Mekansal yapıyı çıkarmak için yapılan çerçeveler de bu çalışmanın bir parçasıdır. 
+Amaç, bir hikayenin uzamsal ve zamansal yönlerini türeyen ve bunları iyi tanımlanmış bir veri yapısında oyun motorunun animasyon ve grafik kısmına göndererek tüm oyun dünyasını ve oyun dinamiklerini yaratan bir hikaye anlatımı motoru oluşturmaktır. .
+
+
+
+
+
+
+
+
+
+
+
+
+
